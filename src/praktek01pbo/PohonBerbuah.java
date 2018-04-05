@@ -11,6 +11,8 @@ package praktek01pbo;
  */
 public class PohonBerbuah {
     public static void main(String[] args) {
-        
+        PohonBuah Kelapa = new PohonBuah();
+        PohonBuah Mangga = new PohonBuah();
+        PohonBuah Nangka = new PohonBuah();
     }
 }
