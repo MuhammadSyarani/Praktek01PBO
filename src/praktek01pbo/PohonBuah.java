@@ -10,11 +10,11 @@ package praktek01pbo;
  * @author ASUS
  */
 public class PohonBuah {
-    string namapohon;
-    string bentukbuah;
-    string bentukdaun;
-    string jenisakar;
-    string perkembangan;
+    String namapohon;
+    String bentukbuah;
+    String bentukdaun;
+    String jenisakar;
+    String perkembangan;
     
     void cetakInfo(){
         System.out.println("Nama Pohon            :"+namapohon);
