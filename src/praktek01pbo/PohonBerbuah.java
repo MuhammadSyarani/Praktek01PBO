@@ -33,6 +33,10 @@ public class PohonBerbuah {
         Nangka.jenisakar="Tunggang";
         Nangka.perkembangan="2 meter";
         
+        Kelapa.cetakInfo();
+        Mangga.cetakInfo();
+        Nangka.cetakInfo();
+        
         
     }
 }
